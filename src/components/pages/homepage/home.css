@@ -1,0 +1,14 @@
+div.container-homepage {
+  position: absolute;
+  top: 35%;
+  left: 22%;
+  text-align: center;
+  margin-left: -50px;
+  margin-top: -25px; }
+div.container-homepage h1 {
+  font-size: 11rem;
+  line-height: 14rem;
+  margin-bottom: 1rem; }
+div.container-homepage h3 {
+  font-size: 2rem;
+  margin-bottom: 8px; }

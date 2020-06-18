@@ -1,0 +1,110 @@
+[
+  {
+    "id": 100,
+    "name": "Anonymous A.",
+    "image": "./assets/images/anonymous1.png",
+    "role": "Web Designer",
+    "email": "anonymous.a@codepage.org",
+    "team": "Omega",
+    "code": "23355"
+  },
+  {
+    "id": 101,
+    "name": "Anonymous B.",
+    "image": "./assets/images/anonymous2.png",
+    "role": "Full-Stack Web Developer",
+    "email": "anonymous.b@codepage.org",
+    "team": "Alpha",
+    "code": "29469"
+  },
+  {
+    "id": 102,
+    "name": "Anonymous C.",
+    "image": "./assets/images/anonymous3.png",
+    "role": "Full-Stack Web Developer",
+    "email": "anonymous.c@codepage.org",
+    "team": "Alpha",
+    "code": "29470"
+  },
+  {
+    "id": 103,
+    "name": "Anonymous D.",
+    "image": "./assets/images/anonymous4.png",
+    "role": "Web Designer",
+    "email": "anonymous.d@codepage.org",
+    "team": "Omega",
+    "code": "23333"
+  },
+  {
+    "id": 104,
+    "name": "Anonymous E.",
+    "image": "./assets/images/anonymous5.png",
+    "role": "Back-End Developer",
+    "email": "anonymous.e@codepage.org",
+    "team": "Beta",
+    "code": "28122"
+  },
+  {
+    "id": 105,
+    "name": "Anonymous F.",
+    "image": "./assets/images/anonymous6.png",
+    "role": "Front-End Developer",
+    "email": "anonymous.f@codepage.org",
+    "team": "Delta",
+    "code": "27644"
+  },
+  {
+    "id": 106,
+    "name": "Anonymous G.",
+    "image": "./assets/images/anonymous7.png",
+    "role": "Front-End Developer",
+    "email": "anonymous.g@codepage.org",
+    "team": "Delta",
+    "code": "27640"
+  },
+  {
+    "id": 107,
+    "name": "Anonymous H.",
+    "image": "./assets/images/anonymous8.png",
+    "role": "Back-End Developer",
+    "email": "anonymous.h@codepage.org",
+    "team": "Beta",
+    "code": "28109"
+  },
+  {
+    "id": 108,
+    "name": "Anonymous I.",
+    "image": "./assets/images/anonymous9.png",
+    "role": "Back-End Developer",
+    "email": "anonymous.i@codepage.org",
+    "team": "Beta",
+    "code": "28103"
+  },
+  {
+    "id": 109,
+    "name": "Anonymous J.",
+    "image": "./assets/images/anonymous10.png",
+    "role": "Back-End Developer",
+    "email": "anonymous.j@codepage.org",
+    "team": "Beta",
+    "code": "28111"
+  },
+  {
+    "id": 110,
+    "name": "Anonymous K.",
+    "image": "./assets/images/anonymous11.png",
+    "role": "Full-Stack Web Developer",
+    "email": "anonymous.k@codepage.org",
+    "team": "Alpha",
+    "code": "29400"
+  },
+  {
+    "id": 111,
+    "name": "Anonymous L.",
+    "image": "./assets/images/anonymous12.png",
+    "role": "IT Manager",
+    "email": "anonymous.l@codepage.org",
+    "team": "Sigma",
+    "code": "99900"
+  }
+]

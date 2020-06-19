@@ -7,8 +7,9 @@
 
   ## Description:
   Codepage: My personal coding manager.
-            Host:
-              - Homework 19 ReactJS - Employee Directory
+  
+  * Host:
+  * - Homework 19 ReactJS - Employee Directory
 
 
   ## Instructions:

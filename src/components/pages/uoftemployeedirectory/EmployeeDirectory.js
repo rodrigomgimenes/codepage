@@ -72,39 +72,6 @@ class EmployeeDirectory extends Component {
     this.setState({ staffFilter });
   };
 
-// /**
-//  * Function to sort alphabetically an array of objects by some specific key.
-//  * 
-//  * @param {String} property Key of the object to sort.
-//  */
-// function dynamicSort(property) {
-//   var sortOrder = 1;
-
-//   if(property[0] === "-") {
-//       sortOrder = -1;
-//       property = property.substr(1);
-//   }
-
-//   return function (a,b) {
-//       if(sortOrder == -1){
-//           return b[property].localeCompare(a[property]);
-//       }else{
-//           return a[property].localeCompare(b[property]);
-//       }        
-//   }
-// }
-
-// Sort the MyData array with the custom function
-// that sorts alphabetically by the name key
-
-// Sort by key in ascending order
-// MyData.sort(dynamicSort("name"));
-// Sort by key in descending order
-// MyData.sort(dynamicSort("-name"));
-
-// Display data with new order !
-// console.log(MyData);
-
   render() {
     return (
       <div className="page-wrapper" style={this.state.staffFilter.length > 0 ? this.styles.pageWrapper : this.styles.pageWrapperCustom}>

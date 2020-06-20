@@ -2,11 +2,6 @@ import React from "react";
 
 function StaffCard(props) {
   return (
-    //   <span onClick={() => props.removeFriend(props.id)} className="remove">
-    //     𝘅
-    //   </span>
-    // </div>
-
     <div className="col-lg-3">
       <div className="card">
         <img className="card-img-top" src="./assets/images/background.jpg" alt="cardbackground" />
@@ -30,25 +25,6 @@ function StaffCard(props) {
         </div>
       </div>
     </div>
-    /* <div className="row">
-        <div className="col-lg-3">
-          <div className="card">
-            <div className="card-body">
-              <div className="d-flex little-profile">
-                <div className="m-r-20 align-self-center avatar">
-                  <span className="lstick m-r-20"></span>
-                  <img src="./assets/images/anonymous.jpg" alt="Staff"/>
-                </div>
-                <div className="align-self-center">
-                  <h3 className="m-b-5">Anonymous A.</h3>
-                  <h6 className="text-muted m-t-5 m-b-0">anonymous.a@coffeteam.org</h6>
-                  <h6 className="text-megna m-t-5 m-b-0">Web Designer & Developer</h6>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div> 
-      </div>*/
   );
 }
 

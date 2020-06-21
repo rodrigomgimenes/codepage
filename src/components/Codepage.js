@@ -49,7 +49,7 @@ class Codepage extends Component {
                     <span className="hide-menu">Rodrigo M. Gimenes</span>
                   </a>
                   <ul aria-expanded="false" className="collapse">
-                    <li><a href="https://rodrigomgimenes.github.io/uofresponsiveportfolio.github.io/">My Homepage</a></li>
+                    <li><a href="https://portfoliowithreact.herokuapp.com/">My Homepage</a></li>
                     <li>
                       <a href="true" onClick={(e) => {e.preventDefault();}} className="has-arrow waves-effect waves-dark">Social Media <span className="label label-coffee pull-right">2</span></a>
                       <ul aria-expanded="false" className="collapse">
